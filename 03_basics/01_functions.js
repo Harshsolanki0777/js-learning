@@ -10,7 +10,7 @@ function sayMyName() {
 // sayMyName    ---- reference
 // sayMyName()  ---- execution
 
-// function addTwoNumbers(number1, number2) {  ---> function input value paramiters
+// function addTwoNumbers(number1, number2) {  ---> function input value parameters
 // 
 //     console.log(number1 + number2);
 // }
